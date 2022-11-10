@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seongmi Woo"
 description              : "seongmi's study blog"
-url                      : "https://sseong-mi/sseong-mi.github.io"
+url                      : "https://sseong-mi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sseong-mi/sseong-mi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : 'sseong-mi-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
